@@ -10,7 +10,7 @@
     "@reach/router": "^1.3.3",
     "docsearch.js": "^2.6.3",
     "formik": "^2.1.4",
-    "gatsby": "^2.13.50",
+    "gatsby": "^3.0.4",
     "gatsby-image": "^2.2.8",
     "gatsby-plugin-catch-links": "^2.3.1",
     "gatsby-plugin-chakra-ui": "^1.0.0-next.4",
